@@ -97,13 +97,8 @@ Sidekiq stays fast by using the [JProfiler java profiler](http://www.ej-technolo
 performance problems on JRuby.  Unfortunately MRI does not have good multithreaded profiling tools.
 
 
-License
------------------
+Guilherme Reis
 
-Please see [LICENSE](https://github.com/mperham/sidekiq/blob/master/LICENSE) for licensing details.
+* https://www.worldcode.com.br
 
-
-Author
------------------
-
-Mike Perham, [@mperham](https://twitter.com/mperham) / [@sidekiq](https://twitter.com/sidekiq), [http://www.mikeperham.com](http://www.mikeperham.com) / [http://www.contribsys.com](http://www.contribsys.com)
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
